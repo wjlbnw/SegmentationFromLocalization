@@ -14,7 +14,7 @@ Existing studies in weakly supervised semantic segmentation(WSSS) using image-le
 - GPUs (12GB)
 
 
-### step
+### step 
 Training and evaluation scripts are in the file.
 
 1. training
@@ -59,7 +59,7 @@ Training and evaluation scripts are in the file.
 
 
 
-### Pseudo labels retrain
+## Pseudo labels retrain
 for the segmentation network. 
 - Please see [deeplab-pytorch](https://github.com/kazuto1011/deeplab-pytorch) for the implementation in PyTorch.
 
