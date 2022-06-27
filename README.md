@@ -8,7 +8,8 @@ Existing studies in weakly supervised semantic segmentation(WSSS) using image-le
 
 ## Requirements
 - Python 3.6
-- pytorch 0.4.1, torchvision 0.2.1
+- pytorch 0.4.1
+- torchvision 0.2.1
 - CUDA 9.0
 - GPUs (12GB)
 
